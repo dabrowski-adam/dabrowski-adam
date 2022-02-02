@@ -1,5 +1,4 @@
 - 👋 @dabrowski-adam
-- 📫 contact@adamdabrowski.com
 
 <!---
 dabrowski-adam/dabrowski-adam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
